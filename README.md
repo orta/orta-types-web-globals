@@ -24,9 +24,9 @@ var EventTarget: EventTargetConstructor
 This library can be used like:
 
 ```sh
-pnpm add @orta/lib-dom-globals@npm:@types/web --save-dev
-npm install @orta/lib-dom-globals@npm:@types/web --save-dev
-yarn add @orta/lib-dom-globals@npm:@types/web --dev
+pnpm add @typescript/lib-dom@npm:@orta/lib-dom-globals --save-dev
+npm install @typescript/lib-dom@npm:@orta/lib-dom-globals --save-dev
+yarn add @typescript/lib-dom@npm:@orta/lib-dom-globals --dev
 ```
 
 
