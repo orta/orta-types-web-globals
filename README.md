@@ -1,5 +1,7 @@
 A version of [@types/web](https://www.npmjs.com/package/@types/web) which has the types separated from the declaration of globals based on [this diff](https://github.com/microsoft/TypeScript-DOM-lib-generator/pull/new/split_types_2) with a bit of manual hand-holding by me.
 
+Based on discussion in [microsoft/TypeScript#43972](https://github.com/microsoft/TypeScript/issues/43972#issuecomment-919403670).
+
 Old:
 
 ```ts
