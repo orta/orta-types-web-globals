@@ -37,3 +37,9 @@ Which will give other projects like node/deno etc the ability to do:
 ```
 
 Which resolves to [`./types.d.ts`](./types.d.ts) - which only contains the global type and no runtime declarations.
+
+### Example App
+
+Here's an example of what this would look like in practice: 
+
+- https://github.com/orta/node-typescript-web-globals/
