@@ -30,7 +30,7 @@ yarn add @orta/lib-dom-globals@npm:@types/web --dev
 ```
 
 
-Which will give other libraries the ability to do:
+Which will give other projects like node/deno etc the ability to do:
 
 ```
 /// <reference lib="dom.types" />
